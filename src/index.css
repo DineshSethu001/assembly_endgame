@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+section.keyboard > button.correct {
+    background-color: #10A95B;
+}
+
+section.keyboard > button.wrong {
+    background-color: #EC5D49;
+}
