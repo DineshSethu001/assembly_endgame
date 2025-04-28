@@ -1,7 +1,7 @@
 # React + Vite
 Here is the link of this project to check:
-https://dulcet-mochi-718c73.netlify.app/
-screenshot of the project
+https://dulcet-mochi-718c73.netlify.app/  .
+Below is the screenshot of the project
 ![Screenshot (169)](https://github.com/user-attachments/assets/c13eaabe-a196-49ac-b47d-43505626946f)
 
 
